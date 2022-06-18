@@ -11,7 +11,7 @@ My name is Steven and I am a mobile app developer. I've been programming over 5 
 # **Some of my projects**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width=50% height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=sheahann&repo=Flutter-MySQL-Python" />
+  <img align="center" height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=sheahann&repo=Flutter-MySQL-Python" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width=50% height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=sheahann&repo=Flutter-MySQL-PHP" />
