@@ -5,6 +5,7 @@ My name is Steven and I am a mobile app developer. I've been programming over 5 
 * Unity
 * Flutter
 * node.js
+* MySQL Databases
 
 # **Languages I use**
 
