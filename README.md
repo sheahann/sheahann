@@ -4,6 +4,7 @@ My name is Steven and I am a backend developer. I've been programming over 6 yea
 * ASP.NET Core & C#
 * Node.js & Express
 * TypeScript
+* Python
 * Java & Spring Boot
 * MySQL & PostgreSQL
 * Git
